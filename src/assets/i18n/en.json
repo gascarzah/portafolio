@@ -1,0 +1,18 @@
+{
+  "about-me-head": "About me",
+  "about-me-body": "Analiste Full stack Developer with 15 years of experience in the industry I developpe all kind of aplications simple and complex, currently I have role like analiste programmer in the part of health, I review system legacy and developpment news projects, in this company i use tools like java, oracle, developpement in pl/sql, sonarqube, spring boot, spring security, typescript, angular, primefaces.",
+  "linkedin": "https://www.linkedin.com/in/gascarzah/?locale=en_US",
+  "work-experience-title": "Work experience",
+  "work-experience-1":
+    {
+        "company": "Essalud",
+        "position": "Full Stack Developer",
+        "from": "04/01/2018",
+        "to": null,
+        "description": ""
+    }
+
+
+
+
+}

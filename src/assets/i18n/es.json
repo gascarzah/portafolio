@@ -1,0 +1,16 @@
+{
+  "about-me-head": "Acerca de mi",
+  "about-me-body": "Desarrollador con 15 a;os de experiencia, durante mi vida profesional he pasado por todas las etapas del desarrollo de software, he desarrollado varios sistemas entre simples y complejas, para asentar mis conocimientos adquiridos he realizado mis propios proyectos utilizando java, oracle (pl/sql), spring boot, angular, etc, las cuales me ha permitido expandir mis conocimientos como freelance",
+  "linkedin": "https://www.linkedin.com/in/gascarzah",
+  "work-experience-title": "Experiencia profesional",
+  "work-experience-1":
+    {
+        "company": "Essalud",
+        "position": "Analista Programador",
+        "from": "09/09/2013",
+        "to": null,
+        "description": "Participation à la phase de conception de plusieurs projets de l'institution <br> Élaborer et définir l'architecture du backend de l'application web<br>Détermination et analyse des besoins informatiques et techniques des usagers.<br>Participer au déploiement et à; la gestion de la plateforme<br>Création des schémas dans la base de données et développement des stored procedures (PL/SQL).<br>Développement et conception des interfaces et fonctionnalités tels que services web (rest et soap), des pages web et des reports."
+    }
+
+
+}

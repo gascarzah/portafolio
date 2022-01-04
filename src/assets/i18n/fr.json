@@ -1,0 +1,169 @@
+{
+  "about-me-head": "À propos de moi",
+  "about-me-body": "Développer avec 15 années d'expérience, pendant mon parcours professional j'ai passé pour tous les étapes pour la construction du software, en développant plusieurs systémes dans lesquels quelques-uns étaient simples et d'autres complexes, afin d'améliorer mes connaissances technologiques, j'ai commencé à développer mes propres systémes en utilisant java, oracle (pl /sql), sonarqube, Spring boot, Spring security, typescript, javascript, angular, primefaces. Toute cette expérience m'a permis d'expandir mes compétences comme freelance.",
+  "linkedin": "https://www.linkedin.com/in/gascarzah/?locale=fr_FR",
+  "work-experience-title": "Expérience professionnelle",
+  "work-experience-3":
+    {
+        "company": "Essalud",
+        "position": "Analyste Programmeur ",
+        "date": "09/09/2013 - Ce jour",
+        "description": {
+          "paragraph-1": "Participation à la phase de conception de plusieurs projets de l'institution",
+          "paragraph-2": "Élaborer et définir l'architecture du backend de l'application web",
+          "paragraph-3": "Détermination et analyse des besoins informatiques et techniques des usagers.",
+          "paragraph-4": "Participer au déploiement et à; la gestion de la plateforme",
+          "paragraph-5": "Création des schémas dans la base de données et développement des stored procedures (PL/SQL).",
+          "paragraph-6": "Développement et conception des interfaces et fonctionnalités tels que services web (rest et soap), des pages web et des reports."
+        }
+    },
+
+    "work-experience-2":
+    {
+        "company": "COSAPI",
+        "position": "Analyste d'intégration",
+        "date": "09/09/2013 - 09/09/2013",
+        "description": {
+          "paragraph-1": "Programmation déapplications informatiques avec web services et développements de reports.",
+          "paragraph-2": "Rédaction de spécifications techniques et fonctionnelles Analyse des demandes du client."
+        }
+    },
+    "work-experience-1":
+    {
+        "company": "Calidad Informatica",
+        "position": "Analyste d'intégration",
+        "date": "09/09/2013 - 09/09/2013",
+        "description": {
+          "paragraph-1": "Développement et conception des interfaces et fonctionnalités tels que services web, des pages web et des reports, store procedures (Pl/sql)",
+          "paragraph-2": "Direction d'une équipe de cinq programmeurs afin de répartir les tâches sur des projets"
+        }
+    },
+    "work-freelance-title": "Projets en tant que Freelance",
+    "demo-online": "Démo en direct",
+    "work-freelance-5":
+    {
+        "title": "Resaturante",
+        "backend-url": "",
+        "frontend-url": "",
+        "demo-url": "",
+        "description": {
+          "paragraph-1": "Le projet est développé avec les technologies suivantes :",
+          "paragraph-2": "Frontend: angular, angular material, bootstrap, jwt, socket",
+          "paragraph-3": "Backend: spring boot, spring security, spring jpa et postgresql",
+          "paragraph-4": "Pour le frontend, je l'est monté sur un apache tomcat et sur un serveur cloud (Digital Ocean), pour outre côté, le backend je l'ai installé dans un sous-domaine, https://api.restaurante.gascarzah.com",
+          "paragraph-5": "User: pepe@gmail.com",
+          "paragraph-6": "Password: 123"
+        }
+    },
+    "work-freelance-4":
+    {
+        "title": "Gym",
+        "backend-url": "",
+        "frontend-url": "",
+        "demo-url": "",
+        "description": {
+          "paragraph-1": "Le projet est développé avec les technologies suivantes :",
+          "paragraph-2": "Frontend: angular, angular material, bootstrap, jwt",
+          "paragraph-3": "Backend: spring boot, spring security, spring jpa et postgresql",
+          "paragraph-4": "Pour le frontend, je l'est monté sur un apache tomcat et sur un serveur cloud (Digital Ocean), pour outre côté, le backend je l'ai installé dans un sous-domaine, https://api.gimnasio.gascarzah.com",
+          "paragraph-5": "User: pepe@gmail.com",
+          "paragraph-6": "Password: 123"
+        }
+    },
+    "work-freelance-3":
+    {
+        "title": "Page Web exalumnosceaune",
+        "backend-url": "",
+        "frontend-url": "",
+        "demo-url": "",
+        "description": {
+          "paragraph-1": "Le projet est développé avec les technologies suivantes :",
+          "paragraph-2": "Frontend: angular, bootstrap",
+          "paragraph-3": "Pour le frontend, je l'est monté sur un apache tomcat et un serveur cloud (Digital Ocean), pour outre côté, le backend je l'ai installé dans un sous-domaine, https://api.exceaune.gascarzah.com"
+
+        }
+    },
+    "work-freelance-2":
+    {
+        "title": "École",
+        "backend-url": "",
+        "frontend-url": "",
+        "demo-url": "",
+        "description": {
+          "paragraph-1": "Ce prototype est développé avec javascript"
+        }
+    },
+    "work-freelance-1":
+    {
+        "title": "Prototype Odontogramme",
+        "backend-url": "",
+        "frontend-url": "",
+        "demo-url": "",
+        "description": {
+          "paragraph-1": "Ce prototype est développé avec javascript"
+        }
+    },
+
+    "competences-tittle": "Compétences",
+    "competences-intro": "Dans mon parcours professionnel, ce sont les technologies sur lesquelles j'ai d'experience .",
+    "competence-5":
+    {
+        "title": "J'ai deja fais 3 projets en l'utilisant",
+        "level": "Intermediere"
+    },
+    "competence-4":
+    {
+        "technology": "Javascript",
+        "description": " ",
+        "porcentage": "80",
+        "level": "Intermediere"
+    },
+    "competence-3":
+    {
+        "technology": "JAVA",
+        "description": " ",
+        "porcentage": "80",
+        "level": "Intermediere"
+    },
+    "competence-2":
+    {
+        "technology": "Spring Boot",
+        "description": " ",
+        "porcentage": "80",
+        "level": "Intermediere"
+    },
+    "competence-1":
+    {
+        "technology": "Spring Boot",
+        "description": " ",
+        "porcentage": "80",
+        "level": "Intermediere"
+    },
+
+
+    "certification-tittle": "Certifications en Java",
+
+    "certification-3": "",
+    "certification-2": "",
+     "certification-1": "",
+
+     "education-tittle": "Éducation",
+     "education-3": "",
+     "education-2": "",
+      "education-1": "",
+
+     "language-tittle": "Langues",
+     "language-3": {
+       "name": "Anglais",
+       "level": "Compétence professionnelle"
+     },
+     "language-2": {
+      "name": "Français",
+      "level": "Compétence professionnelle"
+    },
+    "language-1": {
+      "name": "Espagnol",
+      "level": "Langue maternelle"
+    }
+
+}
